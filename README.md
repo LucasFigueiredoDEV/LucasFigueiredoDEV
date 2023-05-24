@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1e90ff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Lucas+Figueiredo!;Eu+tenho+19+anos;Sou+Brasileiro;Estou+me+Graduando+em+Engenharia+eletrônica;Seja+bem-vindo!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasFigueiredoDEV&bg_color=000000&color=dadee2&line=1e95c8&point=182f4e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucasFigueiredoDEV)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LucasFigueiredoDEV&bg_color=000000&color=dadee2&line=1e95c8&point=182f4e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 
 <!--<p align="center">
