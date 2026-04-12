@@ -51,9 +51,9 @@ frontend: [React, JavaScript, Bootstrap]
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFigueiredoDEV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasFigueiredoDEV&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFigueiredoDEV&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFigueiredoDEV&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 </div>
 
