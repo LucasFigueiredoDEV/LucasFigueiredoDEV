@@ -68,11 +68,9 @@ frontend: [React, JavaScript, Bootstrap]
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LucasFigueiredoDEV/LucasFigueiredoDEV/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
