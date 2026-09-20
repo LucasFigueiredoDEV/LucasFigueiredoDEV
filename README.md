@@ -47,16 +47,6 @@ frontend: [React, JavaScript, Bootstrap]
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasFigueiredoDEV&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
 ## 🧩 What I'm Working On
 
 * 🧱 Designing scalable Full Stack architectures
